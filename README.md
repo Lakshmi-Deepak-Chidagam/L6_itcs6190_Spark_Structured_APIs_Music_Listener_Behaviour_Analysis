@@ -75,7 +75,7 @@ All outputs from the four tasks are saved **together in one text file**: `output
 Before running the analysis, ensure the following software is installed:
 
 1. **Python 3.x**  
-   - [Download and Install Python](https://www.python.org/downloads/)  
+   - Download and Install Python
    - Verify installation:
      ```bash
      python3 --version
